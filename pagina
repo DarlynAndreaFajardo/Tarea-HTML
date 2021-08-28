@@ -1,0 +1,146 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>ISCANDREA</title>
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>
+    .barra{background-color: #949494;}
+    a{
+      height: 50px;
+      color: #fff;
+    }
+    h1{text-align: center;}
+    li{font-size: 16px;}
+    p{font-size: 16px;}
+  </style>
+</head>
+<body>
+   <div class="row barra">
+     <div class="col-md-1">
+       <a href="andrea.html"><img src="https://www.umg.edu.gt/staging/wp-content/uploads/2016/01/480-300x300.png" class="img-responsive" width="100px"></a>
+     </div>
+     <nav class="col-md-11">
+       <ul class="nav nav-pills nav-justified">
+         <br>
+         <li><a target="_blank" href="http://umgcontenidos.50webs.com/">PENSUM</a></li>
+         <li><a href="syh.html">HAD,Y,SOF</a></li>
+         <li><a href="so.html">S.O</a></li>
+         <li><a href="bd.html">BD</a></li>
+         <li><a href="#">R</a></li>
+         <li><a href="pw.html">P.W</a></li>
+         <li><a href="rp.html">R.P</a></li>
+         <li><a href="project.html">PROYECTOS</a></li>
+       </ul>
+     </nav>
+   </div>
+   <div class="row">
+     <div class="col-md-2"></div>
+     <div class="col-md-8">
+       <h1>REDES</h1>
+         <p>Las Redes tienen distintas formas:</p>
+         <img src="img/r1.jpg" width="24%">
+         &nbsp;
+         <img src="img/r2.jpg" width="24%">
+         &nbsp;
+         <img src="img/r3.jpg" width="24%">
+         &nbsp;
+         <img src="img/r4.jpg" width="24%">
+         <br><br>
+         <p>Cuando la mayoría de las personas piensa en una red, se  imagina a varias computadoras en un solo lugar compartiendo documentos y dispositivos como impresoras.</p>
+         <center><img src="img/red.jpg" width="80%"></center>
+
+         <h2><b>Origen</b></h2>
+           <img src="img/Rorigen.jpg" width="100%">
+           <img src="img/Rorigen2.jpg" width="71%">
+           <img src="img/Rorigen3.jpg" width="94%">
+
+          <h2><b>Evolución de las Redes de Comunicaciones</b></h2>
+            <p>Inicialmente, cada red de telecomunicaciones ha sido especialmente diseñada para diferentes servicios.</p>
+            <h3><b>1.Red Telefonica</b></h3>
+              <li>Transmisión de voz</li>
+              <li>Comunicación entre personas</li>
+            <h3><b>2.Redes de datos</b></h3>
+              <li>Transmisión de datos</li>
+              <li>Comunicación entre ordenadores</li>
+            <h3><b>3.Redes de distribución</b></h3>
+              <li>Transmisión de imágenes de televisión</li>
+
+            <h2><b>Concepto de Redes</b></h2>
+              <p>Una red de computadores está formada por una serie de computadores autónomos interconectados a través de algún medio de comunicación (hilos conductores, cable coaxial, enlace de microondas, enlace vía satélite, fibra óptica, etc.) para intercambiar información y compartir recursos. (Prieto, E. A., & Prieto, C. B. (2005). Conceptos de informática. Retrieved from https://ebookcentral.proquest.com).</p>
+              <p>A cada una de las computadoras conectadas a la red se le denomina un nodo. Se considera que una red es local si solo alcanza unos pocos kilómetros.</p>
+              <img src="img/cred.jpg" width="90%">
+
+            <h2><b>Todo computador conectado a una red debe de disponer de:</b></h2>
+              <h3><b>1.Hardware</b></h3>
+                <p>Constituido por una tarjeta de red, adaptador de red o NIC ( Network Interface Card ) que interconecta físicamente un equipo a la red.</p>
+                <center><img src="img/hardware.jpg" width="60%"></center>
+              <h3><b>2.Software</b></h3>
+                <p>Específico para realizar la interconexión, controlador de tarjeta red, protocolos de red</p>
+                <center><img src="img/soft.jpg" width="60%"></center>
+
+              <h2><b>Sistema Operativo de Red</b></h2>
+                <p>Son programas que gestionan la red y sus recursos. Existen 2 TIPOS básicos:</p>
+                  <li>S.O. para redes PUNTO A PUNTO: donde los ordenadores tienen el mismo estatus. Es suficiente con que cada ordenador tenga Windows 98, XP o Vista.</li>
+                    <center><img src="img/pap.jpg" width="60%"></center>
+                  <li>S.O. para redes con SERVIDOR DEDICADO: donde hay servidores dedicados con mayor estatus en la red. Estos suelen tener S.O. específicos para gestión de red como Windows NT SERVER. EL resto de Clientes, pueden tener este SO, o cualquiera de las anteriores (W-98, W-XP o W-Vista).</li>
+                    <center><img src="img/servdedicado.jpg" width="60%"></center>
+
+              <h2><b>Objetivos</b></h2>
+                <p>Su objetivo principal es lograr que todos sus programas, datos y equipo estén disponibles para cualquiera de la red que lo solicite, sin importar la localización física del recurso y del usuario.</p>
+                <center><img src="img/objetivos.jpg" width="90%"></center>
+
+              <h2><b>Conectividad</b></h2>
+                <p>Dependiendo de las necesidades de sus usuarios las redes pueden estar aisladas (por motivos de seguridad por ejemplo) o conectadas a otras redes.</p>
+                  <li><b>Enlace (link)</b> En el nivel más bajo la una red consiste de dos o más computadores conectados a través de un medio físico (cable coaxial, cable par trenzado o fibra óptica)</li>
+                  <li><b>Nodo</b> Cada computador o dispositivo conectado</li>
+                    <center><img src="img/conec1.jpg" width="60%"></center>
+                  <li><b>Enlace punto a punto</b> Algunas veces los enlaces están limitados a conectar un par de nodos</li>
+                    <center><img src="img/conec2.jpg" width="60%"></center>
+                  <li><b>Enlaces de acceso múltiple</b> Más de dos nodos comparten el mismo enlace</li>
+                    <center><img src="img/conec3.jpg" width="60%"></center>
+
+              <h2><b>Tipos de Redes</b></h2>
+                <p>Según la zona geográfica que abarcan o su tamaño, se clasifican en:</p>
+                  <li><b>LAN (Local Area Network):</b> Redes de Área Local: Son redes que cubren pequeñas áreas geográficas tales como un cuarto o un edificio.</li>
+                    <center><img src="img/lan.jpg" width="60%"></center>
+                  <li><b>WAN (Wide Área Network):</b> Redes de Área Extendida: Son un conjunto de dos o más redes de área local esparcidas en un área geográfica extensa.</li>
+                    <center><img src="img/wan.jpg" width="60%"></center>
+                  <li><b>MAN (Metropolitan Area Network):</b> Redes de Área Metropolitana: Son un conjunto de redes locales interconectadas dentro de una área metropolitana. Están constituidas por ordenadores repartidos en una ciudad o municipio.</li>
+                    <center><img src="img/man.jpg" width="60%"></center>
+                  <li><b>SAN (System Area Network):</b> Son redes que generalmente están en un sólo cuarto e interconectan los distintos componentes de grandes sistemas. Las SAN son también conocidas como redes de almacenamiento</li>
+                    <center><img src="img/san.jpg" width="60%"></center>
+                  <li><b>PAN (Personal Area Network):</b> Red de Área Personal: Con el avance de las tecnologías en dispositivos de distintos usos personales (PDAs, celulares, reproductores de música, cámaras, etc) se han creado redes de alcance personal</li>
+                    <center><img src="img/pan.jpg" width="50%"></center>
+                <br>
+                <p>Según el sistema jerárquico de red utilizado, se clasifican en:</p>
+                  <li><b>Redes Cliente-Servidor:</b> Son redes en las que uno o mas Ordenadores (Servidores) son los que controlan y proporcionan recursos y servicios a otros (clientes).</li>
+                    <center><img src="img/rc-s.jpg" width="60%"></center>
+                  <li><b>Redes Punto a Punto:</b> Son Redes en las que todos los Ordenadores tienen las mismas cualidades y Status, y deciden que recursos y servicios dan al resto, cada Pc puede hacer de Cliente o Servidor.</li>
+                    <center><img src="img/rpap.jpg" width="60%"></center>
+              <h2><b>Topologias de Red</b></h2>
+                <p>Es la forma en que el  sistema de comunicación está organizado, puede ser desde un punto de vista físico o lógico.</p>
+                  <li><b>Topología de Bus:</b> Es una arquitectura lineal en la cual las transmisiones desde cualquier punto de la red se propagan a través del medio por lo tanto los datos son recibidos por todos los dispositivos. Una falla en cualquier segmento del cable principal significa que el segmento completo deje de funcionar.</li>
+                    <center><img src="img/bus.jpg" width="20%"></center>
+                  <li><b>Topología de Anillo:</b> Es una arquitectura en la cual todos los dispositivos están conectados el uno al otro en forma de un ciclo o anillo cerrado, de tal forma que cada dispositivo está conectado directamente a otros dos dispositivos (uno a cada lado).</li>
+                    <center><img src="img/anillo.jpg" width="40%"></center>
+                  <li><b>Topología de Estrella:</b> Todos los puntos finales sobre la red están conectados a través de líneas dedicadas a uno solo, llamado Hub o Switch. La principal ventaja de este tipo de redes es la fiabilidad – si un extremo de la red se cae, sólo afectará  a los nodos en ese extremo.</li>
+                    <center><img src="img/estrella.jpg" width="40%"></center>
+                  <li><b>Topología de árbol:</b> tiene una arquitectura idéntica a la de BUS, excepto que en esta topología pueden hacerse ramificaciones con múltiples nodos.</li>
+                    <center><img src="img/arbol.jpg" width="40%"></center>
+                  <li><b>Topología de Malla:</b> los dispositivos están conectados con muchas interconexiones redundantes entre nodos. En una topología de maya real, cada nodo tiene una conexion a cada nodo de la red.</li>
+                    <center><img src="img/malla.jpg" width="40%"></center>
+
+            <h2><b>Componentes de una red local</b></h2>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+     </div>
+     <div class="col-md-2"></div>
+   </div>
+</body>
+</html>
