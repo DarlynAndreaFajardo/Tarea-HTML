@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>ISCANDREA</title>
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>
+    .barra{background-color: #949494;}
+    a{
+      height: 50px;
+      color: #fff;
+    }
+    h1{text-align: center;}
+    li{font-size: 16px;}
+  </style>
+</head>
+<body>
+   <div class="row barra">
+     <div class="col-md-1">
+       <a href="andrea.html"><img src="https://www.umg.edu.gt/staging/wp-content/uploads/2016/01/480-300x300.png" class="img-responsive" width="100px"></a>
+     </div>
+     <nav class="col-md-11">
+       <ul class="nav nav-pills nav-justified">
+         <br>
+         <li><a target="_blank" href="http://umgcontenidos.50webs.com/">PENSUM</a></li>
+         <li><a href="#">HAD,Y,SOF</a></li>
+         <li><a href="so.html">S.O</a></li>
+         <li><a href="bd.html">BD</a></li>
+         <li><a href="r.html">R</a></li>
+         <li><a href="pw.html">P.W</a></li>
+         <li><a href="rp.html">R.P</a></li>
+         <li><a href="project.html">PROYECTOS</a></li>
+       </ul>
+     </nav>
+   </div>
+   <div class="row">
+     <div class="col-md-2"></div>
+     <div class="col-md-8">
+       <h1><b>HARDWARE Y SOFTWARE</b></h1>
+
+        <h2><b>Hardware</b></h2>
+
+          <h3><b>Unidad de Entrada</b></h3>
+          <p>"Input" Teclas de función conjunto de teclas desde la F1 hasta la F12 que pueden ser reservadas por algún programa para llevar a cabo una función especial como, por ejemplo, guardar o recuperar archivos. La función varía según el programa.</p>
+
+          <h3><b>Teclas alfanuméricas</b></h3>
+          <p>Usadas para caracteres alfabéticos, numéricos o de puntuación (símbolos).</p>
+
+          <h3><b>Teclas numéricas</b></h3>
+          <p>Conjunto de teclas de dígitos decimales (0 al 9), tales como los teclados de las calculadoras. Permite que se entren números y símbolos numéricos en una forma más rápida para hacer cálculos matemáticos y para mover el cursor de posición.</p>
+
+          <h3><b>Monitor</b></h3>
+            <h4>-Televisor</h4>
+            <li>Es de pobre resolución, fatiga el ojo, no es apto para procesadores de palabras. Adecuado para exponer juegos.</li>
+
+            <h4>-Monocromática</h4>
+            <li>Las pantallas de vídeo monocromáticas presentan la imagen en un solo color: negro, verde o ámbar, usualmente sobre un fondo negro o blanco. Es mejor que el TV, pero sigue fatigando el ojo.</li>
+
+            <h4>-A color</h4>
+            <li>La pantalla a color es buena para gráficas y juegos. Es pobre para procesar palabras u hojas electrónicas</li>
+
+            <h4>-Monitor CTR</h4>
+            <li>También llamado tubos de rayos catódicos. ya que es un monitor a color cuenta con pixeles que están compuestos por fostoro rojo, azul y verde, y de esta manera iluminando cualquier punto con diferentes intensidades puedes obtener cualquier color.</li>
+
+            <h4>-Plana o "Liquid Crystal Display" (LCD)</h4>
+            <li>Esta pantalla está desarrollada para las "Laptop Computers". Tienen caracteres negros en un fondo blanco o gris. Usan gas parecido a las luces de neón. Tiene pobre legibilidad.</li>
+
+            <h4>-"Enhanced Graphics Adapter " (EGA)</h4>
+            <li>Es una buena resolución, 64 colores o más expuestos en una pantalla de 640 x 350 puntos ("pixels").</li>
+
+            <h4>-"Video Graphics Adapter" (VGA)</h4>
+            <li>Se usa en aplicaciones de "Computer Aided Design" (CAD), gráficas comerciales y juegos de vídeo. Las pantallas de 640 x 480 puntos usan 268,144 colores. Dependiendo de la memoria, se puede presentar desde 16 hasta 256 colores a la misma vez. Los VGA Monocromáticos pueden ofrecer hasta 64 sombras de gris.</li>
+
+            <h4>-"Super Video Graphics Array" (SVGA)</h4>
+            <li>Es el video más claro. Usa una pantalla de 1,024 x 768 puntos.</li>
+
+            <h4>-light-emitting diode (LED)</h4>
+            <li>Es un dispositivo semiconductor, el cual emite luz de manera incoherente y luminiscente, es decir, es como una pequeña campanita de cristal pintado relleno de un elemento que al recibir la electricidad se ilumina.</li>
+
+            <h4>-Digital Light Processing (DLP)</h4>
+            <li>Se basa en un semiconductor óptico llamado Digital Micromirror Device, o integrado DMD es básicamente un microinterruptor extremadamente exacto que permite modular digitalmente la luz mediante millones de espejos microscópicos dispuestos en un colector rectangular.</li>
+
+        <h2><b>Software</b></h2>
+          <li>Es todo el conjunto intangible de datos y programas de la computadora.</li>
+          <li>Es el soporte lógico que le permite desempeñar las tareas que le encomendemos.</li>
+          <li>Dirige al hardware con instrucciones y datos a través de diferentes tipos de programas. Es lo que nos permite darle instrucciones a los dispositivos físicos (hardware).</li>
+
+          <h3><b>Según su función, el SOFTWARE se puede dividir en tres grandes grupos:</b></h3>
+            <li>son todos los programas que sirven para interactuar con el Sistema.</li>
+            <li>Incluye muchas veces a los controladores de dispositivos y a los testware.</li>
+
+          <h3><b>Software de sistema:</b></h3>
+            <li>son los programas diseñados para facilitarnos la realización de tareas específicas con la computadora.</li>
+            <li>Son las aplicaciones ofimáticas (procesador de texto, planilla de cálculos, etc.), los programa educativos, médicos, de ingeniería y, también, los juegos Software de aplicación.</li>
+            <li>son las herramientas que permiten al desarrollador escribir programas utilizando diferentes alternativas y lenguajes: incluye desde los compiladores, ensambladores y editores de código, hasta intérpretes gráficos y entornos de desarrollo integrados Software de programación.</li>
+
+            <br>
+
+            <img src="img/windows.jpg" width="250px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="img/linux.png" width="250px">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="img/macos.jpg" width="250px">
+        <br><br><br>
+     </div>
+     <div class="col-md-2"></div>
+   </div>
+</body>
+</html>
