@@ -1,0 +1,257 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>ISCANDREA</title>
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>
+    .barra{background-color: #949494;}
+    a{
+      height: 50px;
+      color: #fff;
+    }
+    h1{text-align: center;}
+    li{font-size: 16px;}
+  </style>
+</head>
+<body>
+   <div class="row barra">
+     <div class="col-md-1">
+       <a href="andrea.html"><img src="https://www.umg.edu.gt/staging/wp-content/uploads/2016/01/480-300x300.png" class="img-responsive" width="100px"></a>
+     </div>
+     <nav class="col-md-11">
+       <ul class="nav nav-pills nav-justified">
+         <br>
+         <li><a target="_blank" href="http://umgcontenidos.50webs.com/">PENSUM</a></li>
+         <li><a href="syh.html">HAD,Y,SOF</a></li>
+         <li><a href="#">S.O</a></li>
+         <li><a href="bd.html">BD</a></li>
+         <li><a href="r.html">R</a></li>
+         <li><a href="pw.html">P.W</a></li>
+         <li><a href="rp.html">R.P</a></li>
+         <li><a href="project.html">PROYECTOS</a></li>
+       </ul>
+     </nav>
+   </div>
+   <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <h1><b>Sistema Operativo</b></h1>
+      <h2><b>Software</b></h2>
+      <img src="img/software.jpg" width="75%">
+      <br><br>
+      <h2><b>¿Que es un Sistema Operativo?</b></h2>
+        <li>El sistema operativo es el programa (o software) más importante de un ordenador. Para que funcionen los otros programas, cada ordenador de uso general debe tener un sistema operativo</li>
+        <img src="img/QueEsUnSO.jpg" width="75%">
+      <br><br>
+      <h2><b>Arquitectura Básica de un SO</b></h2>
+        <h3><b>-Objetivo principal</b></h3>
+          <li>Facilitar el uso de un sistema  informático.</li>
+          <li>Ofrecer un entorno adecuado para la ejecución de programas en un sistema informático.</li>
+        <h3><b>Objetivos secundarios</b></h3>
+          <li>Uso eficiente de recursos:</li>
+          <img src="img/arquitecSO.jpg" width="75%">
+          <li>Detección y corrección de errores. Un error provocado por un programa no debe afectar al resto de programas ni debe detener el funcionamiento del sistema. </li>
+          <li>Registro de errores.</li>
+          <li>Facilidad en su ampliación y adaptación a los cambios tecnológicos. Arquitecturas.</li>
+          <li>Técnicas de diseño software.</li>
+          <li>Bajo consumo de recursos.</li>
+      <h2><b>Clasificación de los Sistemas Operativos</b></h2>
+        <li>Los sistemas operativos pueden ser clasificados de la siguiente forma:</li>
+        <img src="img/clasificacionSO.jpg" width="75%">
+      <br><br>
+      <h2><b>Cómo funciona un Sistema Operativo</b></h2>
+      <h3><b>Los SO</b></h3>
+        <li>Proporcionan una plataforma de software encima de la cual otros programas, llamados aplicaciones, puedan funcionar.</li>
+      <h3><b>Las aplicaciones:</b></h3>
+        <li>Se programan para que funcionen encima de un sistema operativo particular, por tanto, la elección del sistema operativo determina en gran medida las aplicaciones que puedes utilizar.</li>
+      <h3><b>SO más utilizados en los PC:</b></h3>
+        <li>DOS, OS/2, y Windows, pero hay otros que también se utilizan, como por ejemplo Linux.</li>
+      <br>
+      <center>
+        <img src="img/funcionSO2.jpg" width="80%">
+        <br>
+        <img src="img/funcionSO3.jpg" width="80%">
+      </center>
+      <h3><b>ADMINISTRACION DE RECURSOS</b></h3>
+        <li>Mediante está función el sistema operativo esta en capacidad de distribuir en forma adecuada y en el momento oportuno los diferentes recursos (memoria, dispositivos, etc.,...) entre los diversos programas que se encuentran en proceso, para esto, lleva un registro que le permite conocer que recursos están disponibles y cuales están siendo utilizados, por cuanto tiempo y por quien, etc.</li>
+      <h3><b>CONTROL DE OPERACIONES DE ENTRADA Y SALIDA</b></h3>
+        <li>Mediante esta actividad el sistema operativo decide que proceso hará uso del recurso, durante cuánto tiempo y en que momento.</li>
+      <h3><b>ADMINISTRACION DE LA MEMORIA</b></h3>
+        <li>Supervisa que áreas de memoria están en uso y cual están libre, determina cuanta memoria asignará a un proceso y en que momento, además libera la memoria cuando ya no es requerida para el proceso.</li>
+      <h3><b>RECUPERACION DE ERRORES</b></h3>
+        <li>El sistema operativo contiene rutinas que intentan evitar perder el control de una tarea cuando se suscitan errores en la trasferencia de información hacia y desde los dispositivos de entrada / salida.</li>
+      <h3><b>PROGRAMAS DE PROCESO</b></h3>
+        <li>El sistema operativo contiene programas de servicios que sirven de apoyo al procesamiento de los trabajos, se conocen también como utilerías y se pueden clasificar en tres tipos:</li>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;A) UTILERIAS DEL SISTEMA</h4>
+            <li>Se ejecutan bajo el control del sistema operativo y se utilizan para preparar algunos recursos usados por el sistema. Son de uso interno.</li>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;B) UTILERIAS PARA ARCHIVOS</h4>
+            <li>Manejan información de los archivos tales como imprimir, clasificar, copiar, etc.</li>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;C) UTILERIAS INDEPENDIENTES</h4>
+            <li>Realizar funciones que se relacionan con la iniciación de dispositivos de Entrada/Salida, carga del sistema operativo, etc.</li>
+      <br>
+      <h2><b>Cómo se utiliza un SO</b></h2>
+        <li>Un usuario normalmente interactúa con el sistema operativo a través de un sistema de comandos.</li>
+        <li>Por ejemplo, el sistema operativo DOS contiene comandos como copiar y pegar.</li>
+        <li>Los comandos son aceptados y ejecutados por una parte del sistema operativo llamada procesador de comandos o intérprete de la línea de comandos.</li>
+        <li>Las interfaces gráficas permiten que utilices los comandos señalando y pinchando en objetos que aparecen en la pantalla.</li>
+        <center><img src="img/cortarpegar.jpg" width="20%"></center>
+
+      <br>
+      <h2><b>SISTEMA OPERATIVO ABIERTO y CERRADOS</b></h2>
+      <img src="img/SOabiertoycerrado.jpg" width="95%">
+
+      <br>
+      <h2><b>Ejemplos de Sistema Operativo</b></h2>
+      <h3><b>-Familia Windows</b></h3>
+        <img src="img/famwin.jpg" width="80%">
+      <h3><b>-Familia Macintosh</b></h3>
+        <img src="img/fammac.jpg" width="80%">
+      <h3><b>-Familia UNIX</b></h3>
+        <img src="img/famunix.jpg" width="80%">
+
+      <h2><b>Software de Aplicación</b></h2>
+        <li>Es aquel que nos ayuda a realizar una tarea determinada, existen varias categorías de Software de Aplicación por que hay muchos programas (solo nombramos algunos) los cuales son:</li>
+          <br>
+          <ul class="nav">
+            <li>&nbsp;&nbsp;&nbsp;-Aplicaciones de negocio</li>
+            <li>&nbsp;&nbsp;&nbsp;-Aplicaciones de Utilería</li>
+            <li>&nbsp;&nbsp;&nbsp;-Aplicaciones Personales</li>
+            <li>&nbsp;&nbsp;&nbsp;-Aplicaciones de Entretenimiento</li>
+          </ul>
+          <img src="img/SA1.jpg" width="70%">
+          <img src="img/SA2.jpg" width="28%">
+        <br><br><br>
+    </div>
+    <div class="col-md-2"></div>
+   </div>
+</body>
+</html><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>ISCANDREA</title>
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>
+    .barra{background-color: #949494;}
+    a{
+      height: 50px;
+      color: #fff;
+    }
+    h1{text-align: center;}
+    li{font-size: 16px;}
+  </style>
+</head>
+<body>
+   <div class="row barra">
+     <div class="col-md-1">
+       <a href="andrea.html"><img src="https://www.umg.edu.gt/staging/wp-content/uploads/2016/01/480-300x300.png" class="img-responsive" width="100px"></a>
+     </div>
+     <nav class="col-md-11">
+       <ul class="nav nav-pills nav-justified">
+         <br>
+         <li><a target="_blank" href="http://umgcontenidos.50webs.com/">PENSUM</a></li>
+         <li><a href="syh.html">HAD,Y,SOF</a></li>
+         <li><a href="#">S.O</a></li>
+         <li><a href="bd.html">BD</a></li>
+         <li><a href="r.html">R</a></li>
+         <li><a href="pw.html">P.W</a></li>
+         <li><a href="rp.html">R.P</a></li>
+         <li><a href="project.html">PROYECTOS</a></li>
+       </ul>
+     </nav>
+   </div>
+   <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <h1><b>Sistema Operativo</b></h1>
+      <h2><b>Software</b></h2>
+      <img src="img/software.jpg" width="75%">
+      <br><br>
+      <h2><b>¿Que es un Sistema Operativo?</b></h2>
+        <li>El sistema operativo es el programa (o software) más importante de un ordenador. Para que funcionen los otros programas, cada ordenador de uso general debe tener un sistema operativo</li>
+        <img src="img/QueEsUnSO.jpg" width="75%">
+      <br><br>
+      <h2><b>Arquitectura Básica de un SO</b></h2>
+        <h3><b>-Objetivo principal</b></h3>
+          <li>Facilitar el uso de un sistema  informático.</li>
+          <li>Ofrecer un entorno adecuado para la ejecución de programas en un sistema informático.</li>
+        <h3><b>Objetivos secundarios</b></h3>
+          <li>Uso eficiente de recursos:</li>
+          <img src="img/arquitecSO.jpg" width="75%">
+          <li>Detección y corrección de errores. Un error provocado por un programa no debe afectar al resto de programas ni debe detener el funcionamiento del sistema. </li>
+          <li>Registro de errores.</li>
+          <li>Facilidad en su ampliación y adaptación a los cambios tecnológicos. Arquitecturas.</li>
+          <li>Técnicas de diseño software.</li>
+          <li>Bajo consumo de recursos.</li>
+      <h2><b>Clasificación de los Sistemas Operativos</b></h2>
+        <li>Los sistemas operativos pueden ser clasificados de la siguiente forma:</li>
+        <img src="img/clasificacionSO.jpg" width="75%">
+      <br><br>
+      <h2><b>Cómo funciona un Sistema Operativo</b></h2>
+      <h3><b>Los SO</b></h3>
+        <li>Proporcionan una plataforma de software encima de la cual otros programas, llamados aplicaciones, puedan funcionar.</li>
+      <h3><b>Las aplicaciones:</b></h3>
+        <li>Se programan para que funcionen encima de un sistema operativo particular, por tanto, la elección del sistema operativo determina en gran medida las aplicaciones que puedes utilizar.</li>
+      <h3><b>SO más utilizados en los PC:</b></h3>
+        <li>DOS, OS/2, y Windows, pero hay otros que también se utilizan, como por ejemplo Linux.</li>
+      <br>
+      <center>
+        <img src="img/funcionSO2.jpg" width="80%">
+        <br>
+        <img src="img/funcionSO3.jpg" width="80%">
+      </center>
+      <h3><b>ADMINISTRACION DE RECURSOS</b></h3>
+        <li>Mediante está función el sistema operativo esta en capacidad de distribuir en forma adecuada y en el momento oportuno los diferentes recursos (memoria, dispositivos, etc.,...) entre los diversos programas que se encuentran en proceso, para esto, lleva un registro que le permite conocer que recursos están disponibles y cuales están siendo utilizados, por cuanto tiempo y por quien, etc.</li>
+      <h3><b>CONTROL DE OPERACIONES DE ENTRADA Y SALIDA</b></h3>
+        <li>Mediante esta actividad el sistema operativo decide que proceso hará uso del recurso, durante cuánto tiempo y en que momento.</li>
+      <h3><b>ADMINISTRACION DE LA MEMORIA</b></h3>
+        <li>Supervisa que áreas de memoria están en uso y cual están libre, determina cuanta memoria asignará a un proceso y en que momento, además libera la memoria cuando ya no es requerida para el proceso.</li>
+      <h3><b>RECUPERACION DE ERRORES</b></h3>
+        <li>El sistema operativo contiene rutinas que intentan evitar perder el control de una tarea cuando se suscitan errores en la trasferencia de información hacia y desde los dispositivos de entrada / salida.</li>
+      <h3><b>PROGRAMAS DE PROCESO</b></h3>
+        <li>El sistema operativo contiene programas de servicios que sirven de apoyo al procesamiento de los trabajos, se conocen también como utilerías y se pueden clasificar en tres tipos:</li>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;A) UTILERIAS DEL SISTEMA</h4>
+            <li>Se ejecutan bajo el control del sistema operativo y se utilizan para preparar algunos recursos usados por el sistema. Son de uso interno.</li>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;B) UTILERIAS PARA ARCHIVOS</h4>
+            <li>Manejan información de los archivos tales como imprimir, clasificar, copiar, etc.</li>
+          <h4>&nbsp;&nbsp;&nbsp;&nbsp;C) UTILERIAS INDEPENDIENTES</h4>
+            <li>Realizar funciones que se relacionan con la iniciación de dispositivos de Entrada/Salida, carga del sistema operativo, etc.</li>
+      <br>
+      <h2><b>Cómo se utiliza un SO</b></h2>
+        <li>Un usuario normalmente interactúa con el sistema operativo a través de un sistema de comandos.</li>
+        <li>Por ejemplo, el sistema operativo DOS contiene comandos como copiar y pegar.</li>
+        <li>Los comandos son aceptados y ejecutados por una parte del sistema operativo llamada procesador de comandos o intérprete de la línea de comandos.</li>
+        <li>Las interfaces gráficas permiten que utilices los comandos señalando y pinchando en objetos que aparecen en la pantalla.</li>
+        <center><img src="img/cortarpegar.jpg" width="20%"></center>
+
+      <br>
+      <h2><b>SISTEMA OPERATIVO ABIERTO y CERRADOS</b></h2>
+      <img src="img/SOabiertoycerrado.jpg" width="95%">
+
+      <br>
+      <h2><b>Ejemplos de Sistema Operativo</b></h2>
+      <h3><b>-Familia Windows</b></h3>
+        <img src="img/famwin.jpg" width="80%">
+      <h3><b>-Familia Macintosh</b></h3>
+        <img src="img/fammac.jpg" width="80%">
+      <h3><b>-Familia UNIX</b></h3>
+        <img src="img/famunix.jpg" width="80%">
+
+      <h2><b>Software de Aplicación</b></h2>
+        <li>Es aquel que nos ayuda a realizar una tarea determinada, existen varias categorías de Software de Aplicación por que hay muchos programas (solo nombramos algunos) los cuales son:</li>
+          <br>
+          <ul class="nav">
+            <li>&nbsp;&nbsp;&nbsp;-Aplicaciones de negocio</li>
+            <li>&nbsp;&nbsp;&nbsp;-Aplicaciones de Utilería</li>
+            <li>&nbsp;&nbsp;&nbsp;-Aplicaciones Personales</li>
+            <li>&nbsp;&nbsp;&nbsp;-Aplicaciones de Entretenimiento</li>
+          </ul>
+          <img src="img/SA1.jpg" width="70%">
+          <img src="img/SA2.jpg" width="28%">
+        <br><br><br>
+    </div>
+    <div class="col-md-2"></div>
+   </div>
+</body>
+</html>
